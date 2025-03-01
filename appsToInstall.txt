@@ -1,0 +1,20 @@
+google chrome
+vscode
+firefox
+qbittorrent
+vlc
+mpv
+xdm
+gparted
+ventoy
+nodejs
+bun
+golang
+npm
+pnpm
+postgresql
+spotify
+snapd
+neofetch
+yay
+git
