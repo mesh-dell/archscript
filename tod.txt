@@ -1,0 +1,4 @@
+setup fingerprint
+setup chrome browser
+setup mugshot to change profiel
+
